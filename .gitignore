@@ -1,0 +1,9 @@
+# Игнорирование конфигурационных файлов
+.env
+config.json
+secret_keys.txt
+
+# Игнорирование папок
+/logs
+/tmp
+__pycache__
